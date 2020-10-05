@@ -99,6 +99,7 @@
                 <componentName>PictureGalleryCard</componentName>
             </componentInstance>
         </itemInstances>
+
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
